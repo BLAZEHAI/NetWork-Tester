@@ -1,4 +1,4 @@
 # NetWork-Tester
 # put the Files in one folder
-# start the Test file.
+# start the START file.
 # that is it
